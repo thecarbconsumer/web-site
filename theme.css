@@ -9,3 +9,6 @@ button{
     color: aliceblue;
     border-radius: 25px;
 }
+#navbutton{
+    padding: 10px;
+}
