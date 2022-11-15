@@ -4,3 +4,8 @@ body{
 h1,h2,h3,h4,h5,h6,p{
     color: aliceblue;
 }
+button{
+    background-color: rgb(85, 85, 255);
+    color: aliceblue;
+    border-radius: 15px;
+}
