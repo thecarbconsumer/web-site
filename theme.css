@@ -1,6 +1,6 @@
 body{
     background-color: rgb(70, 70, 70);
 }
-text{
+h1,h2,h3,h4,h5,h6,p{
     color: aliceblue;
 }
