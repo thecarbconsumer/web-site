@@ -10,3 +10,7 @@ button{
     color: aliceblue;
     border-radius: 25px;
 }
+nav{
+    border: 0px, aliceblue;
+    padding: 15px;
+}
